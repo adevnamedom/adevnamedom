@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @adevnamedom
+#Pete Thinkful
+
+Welcome! This is my initial web page deployment as part of my web development journey with Thinkful.
+
+##About me
+
+- 👋 Hi, I’m @adevnamedom [GitHub Profile] (https://github.com/adevnamedom)
 - 👀 I’m interested in Product Design and Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on emerging products or startups
-- 📫 How to reach me dominiqueontario.com
+- 📫 How to reach me[Personal Portfolio]: (http://www.dominiqueontario.com)
 
 <!---
 adevnamedom/adevnamedom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
