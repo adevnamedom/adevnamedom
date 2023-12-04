@@ -1,8 +1,8 @@
-#Pete Thinkful
+<h1>Pete Thinkful</h1>
 
 Welcome! This is my initial web page deployment as part of my web development journey with Thinkful.
 
-##About me
+<h2>About me</h2>
 
 - 👋 Hi, I’m @adevnamedom [GitHub Profile] (https://github.com/adevnamedom)
 - 👀 I’m interested in Product Design and Development
